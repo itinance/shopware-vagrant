@@ -88,7 +88,7 @@ This will download the latest git version of shopware and install it into `/home
 
 Download test images:
 
-    $ cd home/vagrant/www/shopware
+    $ cd /home/vagrant/www/shopware
     $ wget -O test_images.zip http://releases.s3.shopware.com/test_images.zip
     $ unzip test_images.zip
 
